@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Heritage Automatic",
+    "category": "Vintage",
+    "price": 1850,
+    "currency": "$",
+    "shortDescription": "A classic silhouette inspired by traditional mechanical watchmaking.",
+    "description": "A refined automatic timepiece with a warm vintage character, designed for collectors who appreciate mechanical craftsmanship.",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=1000&q=80",
+    "specs": {
+      "Movement": "Automatic",
+      "Case": "40 mm stainless steel",
+      "Glass": "Sapphire crystal",
+      "Water Resistance": "100 m"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Regent Chronograph",
+    "category": "Luxury",
+    "price": 4250,
+    "currency": "$",
+    "shortDescription": "A polished chronograph balancing formal detail and everyday wear.",
+    "description": "A premium chronograph with a balanced dial and durable construction for occasions that demand precision and presence.",
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=1000&q=80",
+    "specs": {
+      "Movement": "Quartz Chronograph",
+      "Case": "42 mm steel",
+      "Glass": "Sapphire crystal",
+      "Water Resistance": "100 m"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Solar Meridian",
+    "category": "Technology",
+    "price": 1290,
+    "currency": "$",
+    "shortDescription": "Solar-powered precision with a clean modern profile.",
+    "description": "A practical solar-powered watch designed to reduce battery changes while keeping accurate time in everyday conditions.",
+    "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=1000&q=80",
+    "specs": {
+      "Movement": "Eco Solar",
+      "Power Reserve": "Up to 6 months",
+      "Case": "41 mm steel",
+      "Water Resistance": "100 m"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Alberto Connect",
+    "category": "Smart Watches",
+    "price": 699,
+    "currency": "$",
+    "shortDescription": "Connected features, notifications and activity tools in a refined case.",
+    "description": "A concept smart watch for the Alberto collection, combining a premium-looking case with connected everyday functions.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1000&q=80",
+    "specs": {
+      "Display": "AMOLED",
+      "Connectivity": "Bluetooth",
+      "Battery": "Up to 7 days",
+      "Water Resistance": "50 m"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Classic Reserve",
+    "category": "Luxury",
+    "price": 3150,
+    "currency": "$",
+    "shortDescription": "A restrained dress watch built around a timeless dial.",
+    "description": "An elegant dress watch with a clean face and understated detailing, suitable for formal and professional settings.",
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=1000&q=80",
+    "specs": {
+      "Movement": "Automatic",
+      "Case": "39 mm steel",
+      "Strap": "Leather",
+      "Water Resistance": "50 m"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Retro Pilot",
+    "category": "Vintage",
+    "price": 1125,
+    "currency": "$",
+    "shortDescription": "A vintage-inspired pilot watch with highly readable markers.",
+    "description": "Inspired by classic aviation instruments, this design emphasizes legibility, strong proportions and a heritage aesthetic.",
+    "image": "https://images.unsplash.com/photo-1495857000853-fe46c8aefc30?auto=format&fit=crop&w=1000&q=80",
+    "specs": {
+      "Movement": "Quartz",
+      "Case": "40 mm steel",
+      "Dial": "Luminous markers",
+      "Water Resistance": "100 m"
+    }
+  },
+  {
+    "id": 7,
+    "name": "City Chrono",
+    "category": "Modern",
+    "price": 980,
+    "currency": "$",
+    "shortDescription": "A versatile urban chronograph for work and weekends.",
+    "description": "A contemporary chronograph with a confident profile and practical everyday specifications.",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=1000&q=80",
+    "specs": {
+      "Movement": "Quartz Chronograph",
+      "Case": "42 mm steel",
+      "Strap": "Steel bracelet",
+      "Water Resistance": "100 m"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Grand Reserve",
+    "category": "Luxury",
+    "price": 5850,
+    "currency": "$",
+    "shortDescription": "A statement piece for collectors seeking premium finishing.",
+    "description": "A flagship concept combining refined proportions, mechanical movement and elevated finishing for the luxury collection.",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=1000&q=80",
+    "specs": {
+      "Movement": "Automatic",
+      "Case": "41 mm steel",
+      "Glass": "Sapphire crystal",
+      "Water Resistance": "100 m"
+    }
+  }
+]

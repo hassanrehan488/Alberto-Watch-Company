@@ -1,0 +1,7 @@
+PROJECT ASSUMPTIONS
+
+1. The supplied specification does not provide final company contact details, so clearly labelled demo details are used.
+2. The specification does not provide a final product catalogue, so sample products are supplied in JSON.
+3. The specification allows creativity beyond the listed requirements; the interface therefore includes modern responsive styling.
+4. The visitor count is implemented with browser localStorage rather than a server database.
+5. The geolocation ticker displays coordinates because no reverse-geocoding service was specified.
