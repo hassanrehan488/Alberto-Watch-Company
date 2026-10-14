@@ -1,0 +1,19 @@
+ALBERTO CLOCKS — DATA FLOW DIAGRAM
+
+[USER]
+   |
+   | clicks / scrolls / selects
+   v
+[SPA USER INTERFACE]
+   |                 |                 |
+   |                 |                 |
+   v                 v                 v
+[PRODUCT JSON]   [LOCAL STORAGE]  [GEOLOCATION API]
+   |                 |                 |
+   v                 v                 v
+[PRODUCT CARDS] [VISITOR COUNT] [LOCATION]
+   |
+   v
+[PRODUCT MODAL]
+
+The application is client-side. Product information is read from JSON; the visitor count is stored locally in the browser; location is supplied by the browser Geolocation API.

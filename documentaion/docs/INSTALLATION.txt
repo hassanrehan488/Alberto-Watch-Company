@@ -1,0 +1,15 @@
+ALBERTO CLOCKS INSTALLATION
+
+1. Extract Alberto_Clocks_Project.zip.
+2. Open the extracted folder in VS Code.
+3. Start a local server.
+
+Python:
+python -m http.server 8000
+
+4. Visit:
+http://localhost:8000
+
+Do not rely on opening index.html directly with file:// because browsers can block fetch() requests for data/products.json.
+
+For deployment, upload the complete folder to a normal web server and replace demo contact/store information.

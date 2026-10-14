@@ -1,0 +1,15 @@
+SOURCE
+Alberto Clocks eProject specification supplied with this project.
+
+Relevant requirements:
+- Single-page responsive website
+- Products, Technology, Store Locator, Support menus
+- Product categories and product details
+- Price list and gallery
+- Site map, About Us and Contact Us
+- Bottom ticker with date, time and HTML5 geolocation
+- Visitor count
+- Hover/active menu states and animation
+- HTML5, CSS, Bootstrap, JavaScript/jQuery, React/AngularJS, Figma/XML listed as technologies
+- JSON/TXT data store
+- Documentation, source code, test data and installation instructions
